@@ -9,13 +9,18 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        TabView {
+            KitchenLevelView()
+                .tabItem { Label("S", systemImage: "person.fill") }
+            DishLevelView()
+                .tabItem { Label("O", systemImage: "puzzlepiece.fill") }
+            ScenarioLevelView(scenario: .liskov)
+                .tabItem { Label("L", systemImage: "arrow.left.arrow.right") }
+            ScenarioLevelView(scenario: .interfaceSegregation)
+                .tabItem { Label("I", systemImage: "scissors") }
+            ScenarioLevelView(scenario: .dependencyInversion)
+                .tabItem { Label("D", systemImage: "bolt.fill") }
         }
-        .padding()
     }
 }
 
