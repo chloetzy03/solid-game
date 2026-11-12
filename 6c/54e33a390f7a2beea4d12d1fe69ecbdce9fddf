@@ -1,0 +1,42 @@
+"SOLID game.xcodeproj/project.pbxproj"
+  h_ee194195c1c2bb 1-586
+"SOLID game.xcodeproj/project.xcworkspace/contents.xcworkspacedata"
+  h_ee194195c1c2bb 1-7
+"SOLID game.xcodeproj/xcuserdata/chloe.tay.xcuserdatad/xcschemes/xcschememanagement.plist"
+  h_ee194195c1c2bb 1-14
+"SOLID game/AppDelegate.swift"
+  h_ee194195c1c2bb 1-36
+"SOLID game/Assets.xcassets/AccentColor.colorset/Contents.json"
+  h_ee194195c1c2bb 1-11
+"SOLID game/Assets.xcassets/AppIcon.appiconset/Contents.json"
+  h_ee194195c1c2bb 1-35
+"SOLID game/Assets.xcassets/Contents.json"
+  h_ee194195c1c2bb 1-6
+"SOLID game/Base.lproj/LaunchScreen.storyboard"
+  h_ee194195c1c2bb 1-25
+"SOLID game/ContentView.swift"
+  h_ee194195c1c2bb 1-24
+"SOLID game/Info.plist"
+  h_ee194195c1c2bb 1-23
+"SOLID game/SceneDelegate.swift"
+  h_ee194195c1c2bb 1-55
+"SOLID game/ViewController.swift"
+  h_ee194195c1c2bb 1-24
+"SOLID gameTests/SOLID_gameTests.swift"
+  h_ee194195c1c2bb 1-17
+"SOLID gameUITests/SOLID_gameUITests.swift"
+  h_ee194195c1c2bb 1-41
+"SOLID gameUITests/SOLID_gameUITestsLaunchTests.swift"
+  h_ee194195c1c2bb 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6c54e33a390f7a2beea4d12d1fe69ecbdce9fddf",
+  "prompts": {},
+  "humans": {
+    "h_ee194195c1c2bb": {
+      "author": "chloe <chloetzy03@gmail.com>"
+    }
+  }
+}
