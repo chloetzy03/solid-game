@@ -1,0 +1,38 @@
+"SOLID game/Verdict.swift"
+  s_5aaac3a816b581::t_91d914633c32f7 1-54
+"SOLID game/ScenarioLevel.swift"
+  s_5aaac3a816b581::t_304d93f0cbf796 1-37
+"SOLID game/SceneDelegate.swift"
+  s_5aaac3a816b581::t_8f5999e1859c7b 9,22-23
+"SOLID game/KitchenLevelView.swift"
+  s_5aaac3a816b581::t_66602cfb9101c4 1-138
+"SOLID game/DishLevelView.swift"
+  s_5aaac3a816b581::t_f3fd26d3e94481 1-160
+"SOLID game/ContentView.swift"
+  s_5aaac3a816b581::t_d02f1b265563f2 12-16
+  s_5aaac3a816b581::t_b81fba3324005b 17-22
+"SOLID game/ScenarioLevelView.swift"
+  s_5aaac3a816b581::t_d44fa940a535bd 1-142
+"SOLID game/DishLevel.swift"
+  s_5aaac3a816b581::t_1e43c4157ef620 1-52
+"SOLID game/Scenario.swift"
+  s_5aaac3a816b581::t_b7968b885faaff 1-178
+"SOLID game/KitchenLevel.swift"
+  s_5aaac3a816b581::t_254de7af4bb1f2 1-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0a1a8b133417ae78bb2ec260b0970a100092d21a",
+  "prompts": {},
+  "sessions": {
+    "s_5aaac3a816b581": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "5900bc1e-b89e-43a4-ad43-3bbc9987c6e5",
+        "model": "openrouter/OpenRouter 3/anthropic/claude-sonnet-5.5"
+      },
+      "human_author": "chloe <chloetzy03@gmail.com>"
+    }
+  }
+}
